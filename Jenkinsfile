@@ -5,7 +5,7 @@ pipeline {
     }
  
     environment {
-        NODEJS_HOME = 'C:/Program Files/nodejs/'  
+        NODEJS_HOME = 'C:/Program Files/nodejs'  
         SONAR_SCANNER_PATH = 'C:\\sonar-scanner-cli-6.2.1.4610-windows-x64\\sonar-scanner-6.2.1.4610-windows-x64\\bin'
       
     }
